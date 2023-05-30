@@ -1,5 +1,6 @@
 # yaaaeapa
-##Yet Another Awesome And Extraordinary Audio Plugin API
+
+Yet Another Awesome And Extraordinary Audio Plugin API
 
 A minimal audio plugin API without GUI support.
 
